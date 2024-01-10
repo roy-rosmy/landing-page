@@ -110,6 +110,7 @@ img {
 h1, h2, h3, h4, h5, h6 {
     font-family: "Playfair Display";
     letter-spacing: 5px;
+    color: #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -169,10 +170,6 @@ h1, h2, h3, h4, h5, h6 {
     color: #757575!important;
 }
 
-.landing-padding-64 {
-    padding-top: 64px!important;
-    padding-bottom: 64px!important;
-}
 @media (min-width: 993px){
 .landing-col.l6 {
     width: 49.99999%;
@@ -193,10 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 .landing-container, .landing-panel {
     padding: 0.01em 16px;
 }
-.landing-padding-64 {
-    padding-top: 64px!important;
-    padding-bottom: 64px!important;
-}
+
 .landing-text-blue-grey, .landing-hover-text-blue-grey:hover, .landing-text-blue-gray, .landing-hover-text-blue-gray:hover {
     color: #607d8b!important;
 }
